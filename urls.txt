@@ -1,0 +1,187 @@
+# ============= SAFE DOMAINS (Legitimate - Should show SAFE) =============
+
+# Tech & Search Engines
+google.com
+youtube.com
+facebook.com
+instagram.com
+twitter.com
+linkedin.com
+github.com
+stackoverflow.com
+reddit.com
+wikipedia.org
+amazon.com
+netflix.com
+spotify.com
+microsoft.com
+apple.com
+cloudflare.com
+fastly.com
+akamai.com
+verizon.com
+att.com
+
+# News & Media
+cnn.com
+bbc.com
+nytimes.com
+theguardian.com
+reuters.com
+bloomberg.com
+wsj.com
+forbes.com
+techcrunch.com
+wired.com
+huffpost.com
+usatoday.com
+npr.org
+apnews.com
+aljazeera.com
+
+# Social & Communication
+whatsapp.com
+telegram.org
+discord.com
+slack.com
+zoom.us
+snapchat.com
+pinterest.com
+tumblr.com
+twitch.tv
+tiktok.com
+signal.org
+protonmail.com
+outlook.com
+gmail.com
+yahoo.com
+
+# Banking & Finance
+paypal.com
+chase.com
+bankofamerica.com
+wellsfargo.com
+citibank.com
+capitalone.com
+americanexpress.com
+discover.com
+usbank.com
+ally.com
+venmo.com
+square.com
+stripe.com
+intuit.com
+quickbooks.com
+
+# E-commerce
+ebay.com
+walmart.com
+target.com
+bestbuy.com
+homedepot.com
+lowes.com
+costco.com
+shopify.com
+etsy.com
+alibaba.com
+aliexpress.com
+zillow.com
+wayfair.com
+chewy.com
+etsy.com
+
+# Government & Education
+usa.gov
+whitehouse.gov
+state.gov
+fbi.gov
+nsa.gov
+cia.gov
+cdc.gov
+nih.gov
+harvard.edu
+stanford.edu
+mit.edu
+berkeley.edu
+oxford.ac.uk
+cambridge.ac.uk
+edu.gov
+
+# Cloud & Hosting
+aws.amazon.com
+azure.microsoft.com
+cloud.google.com
+digitalocean.com
+heroku.com
+netlify.com
+vercel.com
+render.com
+fly.io
+supabase.com
+
+# ============= SUSPICIOUS DOMAINS (For Testing - May show warnings) =============
+
+# Typosquatting examples (fake versions of real sites)
+faceb00k.com
+go0gle.com
+twitt3r.com
+instagr4m.com
+link3din.com
+amaz0n.com
+paypa1.com
+whatsappp.com
+y0utube.com
+micr0soft.com
+
+# Suspicious TLDs
+suspicious-site.xyz
+free-money.tk
+verify-account.ml
+secure-login.ga
+bank-verify.cf
+your-account.top
+security-alert.club
+confirm-identity.work
+update-payment.date
+account-verify.download
+
+# Suspicious keywords in domain
+login-verify.com
+secure-account.net
+verify-paypal.org
+confirm-banking.com
+update-password.xyz
+account-alert.net
+security-check.tk
+validate-identity.ml
+unlock-account.cf
+suspended-alert.top
+
+# Long/weird domains
+this-is-a-very-long-suspicious-domain-name-for-testing-purposes.xyz
+login-secure-verify-account-update-banking-alert.com
+verify-your-paypal-account-now-urgent-action-required.tk
+
+# IP address style (highly suspicious)
+192.168.1.1
+10.0.0.1
+172.16.0.1
+203.0.113.5
+198.51.100.7
+
+# URL shortener style (caution)
+bit.ly/3xYZ123
+tinyurl.com/test123
+goo.gl/abc123
+ow.ly/xyz789
+is.gd/test456
+
+# Contains @ symbol (phishing)
+https://www.paypal.com@malicious-site.com
+https://google.com@fake-login.xyz
+https://facebook.com@phishing-site.tk
+
+# Multiple subdomains (suspicious)
+login.secure.verify.account.update.com
+verify.paypal.security.check.com
+secure.login.banking.verify.net
